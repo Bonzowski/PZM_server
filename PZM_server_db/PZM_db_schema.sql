@@ -1,0 +1,1 @@
+SELECT * FROM pzm_db_schema.cars_list;
